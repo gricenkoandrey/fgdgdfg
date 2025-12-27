@@ -1,0 +1,8 @@
+
+{
+  "name": "FitVision",
+  "description": "Мощный ИИ-сканер для фитнеса и питания. Анализируйте форму тела и состав еды в одно касание.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
